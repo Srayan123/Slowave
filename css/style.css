@@ -1,0 +1,211 @@
+.parent {
+    width: 100%;
+    height: auto;
+    margin: 0px
+}
+.parent_nav_div {
+    width: 100%;
+    height: 70px;
+    
+    position: fixed;
+    top: 0px;
+    z-index: 1;
+    left: 0px;
+}
+.nav_div {
+    margin: 0;
+    padding: 0;
+    width: 1520px;
+    height: 70px;
+    background-color: #333C45;
+    position: fixed;
+}
+.logo {
+    width: 150px;
+    position: fixed;
+    left: 250px;
+    top: 13px;
+}
+.nav {
+    list-style: none;
+    font-size: 15px;
+    color: white !important;
+    
+}
+.nav a {
+    color: white;
+    
+    
+}
+.nav a :hover {
+    color: black;
+    background-color: aqua;
+    z-index: 2;
+}
+.li-1 {
+    position: fixed;
+    top: 3px;
+    right: 850px;
+}
+.li-2 {
+    position: fixed;
+    top: 3px;
+    right: 680px;
+}
+.li-3 {
+    position: fixed;
+    top: 20px;
+    right: 600px;
+}
+.li-4 {
+    position: fixed;
+    top: 20px;
+    right: 465px;
+}
+.li-5 {
+    position: fixed;
+    top: 20px;
+    right: 355px;
+}
+.li-6 {
+    position:fixed;
+    top:20px;
+    right: 220px;
+}
+.li-7 {
+    position:fixed;
+    top: 20px;
+    right: 90px;
+}
+html {
+    scroll-behavior: smooth;
+}
+
+.Step_sec {
+    margin-top: 1812px;
+    width: 1503px;
+    height: 1000px;
+    background-color: white;
+    color: gray;
+    padding: 20px;
+}
+.Step_sec h1 {
+    font-size: 30px;
+    text-align: center;
+}
+.Step_sec p {
+    font-size: 17px;
+    text-align: center;
+}
+.vl {
+    border: 1px solid gray;
+    width: 2px;
+    height: 650px;
+    position: absolute;
+    top: 2650px;
+    left: 760px;
+}
+.hl1 {
+    width: 100px;
+    position: absolute;
+    top: 2700px;
+    left: 760px;
+
+}
+.bulb {
+    width: 100px;
+    position: absolute;
+    top: 2650px;
+    left: 848px;
+}
+.heading_1 {
+    position: absolute;
+    top: 2740px;
+    left: 860px;
+    font-size: 17px;
+    color: #3F8DBF;
+}
+.para_1 {
+    position: absolute;
+    top: 2780px;
+    left: 860px;
+    
+}
+/* end of bulb */
+.hl2 {
+    width: 100px;
+    position: absolute;
+    top: 2850px;
+    left: 660px;
+} 
+.heading_2 {
+    position: absolute;
+    top: 2900px;
+    left: 527px;
+    font-size: 17px;
+    color: #3F8DBF;
+}
+.ana {
+    width: 100px;
+    position: absolute;
+    top: 2800px;
+    left: 580px;
+}
+.para_2 {
+    position: absolute;
+    top: 2940px;
+    left: 360px;
+    text-align: justify;
+}
+/* end of hl2 */
+.MT {
+    width: 70px;
+    position: absolute;
+    top: 2965px;
+    left: 855px;
+}
+.hl3 {
+    width: 100px;
+    position: absolute;
+    top: 3000px;
+    left: 760px; 
+}
+.heading_3 {
+    position: absolute;
+    top: 3040px;
+    left: 860px;
+    font-size: 17px;
+    color: #3F8DBF;
+}
+.para_3 {
+    position: absolute;
+    top: 3080px;
+    left: 860px;
+    text-align: justify;
+}
+/* enf of hl3 */
+.hl4 {
+    width: 100px;
+    position: absolute;
+    top: 3150px;
+    left: 660px;
+} 
+.heading_4 {
+    position: absolute;
+    top: 3195px;
+    left: 550px;
+    font-size: 17px;
+    color: #3F8DBF;
+}
+.Gift {
+    width: 90px;
+    position: absolute;
+    top: 3108px;
+    left: 585px;
+}
+.para_4 {
+    position: absolute;
+    top: 3230px;
+    left: 360px;
+    text-align: justify;
+}
